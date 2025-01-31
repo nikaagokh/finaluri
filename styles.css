@@ -1,0 +1,12 @@
+.register-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    width: 400px;
+}
+
+.register-button {
+    border: none;
+    background-color: #253988;
+    color: white;
+}
